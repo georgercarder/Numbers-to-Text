@@ -1,16 +1,9 @@
 #!/bin/Rscript
 
-
-##TESTING: A script converting numeric representation of positive integers to a text representation. 
-
 ##trillion is limit for precision
-L<-sample(1:100000000,50,replace=FALSE,prob=NULL)
-
-i=1
-while(i<=50){
-    n=L[i]
-    print(L[i])
 ############    
+
+##given a number n
 
 #print("given number n")
 ####first find degree of polynomial "in 10" and thousands millions etc
@@ -156,5 +149,3 @@ worda<-word
 print(word)
 
 ############
-i=i+1
-}
