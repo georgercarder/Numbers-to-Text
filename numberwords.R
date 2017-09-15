@@ -3,7 +3,7 @@
 ##trillion is limit for precision
 ############    
 
-##given a number n
+##given a positive integer n
 
 #print("given number n")
 ####first find degree of polynomial "in 10" and thousands millions etc
