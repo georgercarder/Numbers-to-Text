@@ -1,3 +1,5 @@
 # Numbers-to-Text
-A program to convert integers in numeric form to text. 
-In R, define an integer n and run "numberwords.R" to get a text representation of the integer. Private, as this is a program being used in a current Kaggle competition. Will be available to peruse in November or you can contact me for details.
+A collection of scripts to convert positive integers and rational numbers from a numeric to a text representation.
+fractionwords.R calls both numberwords.R and thsnumberwords.R
+These scripts are being used for the English version of the Text Normalization Challenge on Kaggle.
+
