@@ -2,12 +2,6 @@
 
 
 #print("trillion is limit for precision")
-#L<-sample(1:100000000,50,replace=FALSE,prob=NULL)
-
-#i=1
-#while(i<=50){
-#    n=L[i]
-#    print(L[i])
 ############    
 
 #print("given number n")
@@ -203,5 +197,4 @@ wordb<-word
 #print(word)
 
 ############
-#i=i+1
-#}
+
